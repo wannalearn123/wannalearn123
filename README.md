@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Agung Nurdiansyah 19 years old as @wannalearn123
 - 👀 I’m interested in Blockchain technology and Web3
 - 🌱 I’m currently learning Web dev. I've learned some basic of Python scripting and computer network
-- 💞️ I’m looking to collaborate on programming and hacking
-- 📫 How to reach me @a_noor1626
+- 💞️ I’m looking to collaborate on programming and hacking,
+      but especially in blockchain programming or AI
+- 📫 How to reach me instagram: @nurdiansyah4886
 
 <!---
 wannalearn123/wannalearn123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
