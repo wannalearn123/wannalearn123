@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wannalearn123
-- 👀 I’m interested in everything about cyber
-- 🌱 I’m currently learning python and linux
+- 👋 Hi, I’m Agung Nurdiansyah 19 years old as @wannalearn123
+- 👀 I’m interested in Blockchain technology and Web3
+- 🌱 I’m currently learning Web dev. I've learned some basic of Python scripting and computer network
 - 💞️ I’m looking to collaborate on programming and hacking
 - 📫 How to reach me @a_noor1626
 
